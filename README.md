@@ -31,3 +31,7 @@
 результатов.
 
 ![img.png](img/result.png)
+
+# Видео
+
+https://drive.google.com/drive/folders/19N9ygh5Dxhuq4QVOVs-6NMf7gwPm40cY?usp=share_link
