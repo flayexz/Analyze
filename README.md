@@ -35,3 +35,7 @@
 # Видео
 
 https://drive.google.com/drive/folders/19N9ygh5Dxhuq4QVOVs-6NMf7gwPm40cY?usp=share_link
+
+# Подготовили
+- 11-009 Садоров Тимур
+- 11-009 Нуруллин Ильдар
